@@ -1,3 +1,7 @@
+Added link for DJS03 Loom Video: []
+
+
+
 # DJS03 Project Brief: Book Connect - Abstractions
 
 Dive into the delightful world of "Book Connect," where literary adventures await at your fingertips! Browse, explore, and uncover your next great read from a vast, vibrant collection. Whether you're a fan of thrilling mysteries, epic fantasies, or heartwarming romances, "Book Connect" brings the magic of books directly to you. Happy reading! 
